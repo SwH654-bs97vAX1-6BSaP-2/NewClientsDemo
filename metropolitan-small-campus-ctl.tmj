@@ -1257,14 +1257,14 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/fountain.mp3"
+                         "value":"fountain.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
                  "width":462.872233674272,
                  "x":555.345944531865,
-                 "y":1698.80716797797
+                 "y":1699.80716797797
                 }, 
                 {
                  "height":126.966,
@@ -1404,7 +1404,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/fire.mp3"
+                         "value":"fire.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1431,7 +1431,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/fire.mp3"
+                         "value":"fire.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1458,7 +1458,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/fire.mp3"
+                         "value":"fire.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
